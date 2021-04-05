@@ -1,7 +1,13 @@
 # MiniDisc player models
 
-MZ-R500
-MZ-N505
+## MZ-R500
+
+- [Minidisc.org page](https://www.minidisc.org/part_Sony_MZ-R500.html)
+
+## MZ-N505
+
+- [Minidisc.org page](https://www.minidisc.org/part_Sony_MZ-N505.html)
+
 
 # Bluetooth transmitter modules
 
