@@ -30,6 +30,14 @@
 - 7V rail from power IC to spindle + stepper motor driver
   - Find it on schematic using IC pin references
   - Find suitable points to tap
+  - too weak! Collapses under small load
+- Look for alternative source + boost converter
+  - `VA` net looks good, but many test pads etc. are on "wrong" side of PCB
+  - Use `IC901` pin 41 (`VA`) @2.4 V for `+`
+  - Use `C314` cathode at `IC302` pin 14 (`GND`) for `-`
+  - It works! Stable under load
+  - Not sure why tapping anode of `C314` does not work
+  - Not sure why tapping `AP908` (should be equivalent to `IC302` `VCC` before `L303` and `R303`) does not work
 
 ### Bluetooth
 
@@ -37,6 +45,19 @@
 
 ### MiniDisc audio
 
-
+- short circuit between audio ground and VG ground? -> nope, all good
 
 ### Button
+
+- Photograph button PCB against white screen -> good contrast of traces
+  - Single layer board
+  - Lots of `000` 0 Ohm resistors as bridges
+  - Multiplexed? Resistor ladder? No idea
+- Trace nets from `End Search` button down to FFC
+  - Pin 2: `DGND`
+  - Pin 6: `SET KEY 1`
+- Try scraping off soldermask on marking in corner -> works
+- Scrape off soldermask on trace of button ring
+
+- Remove protective foil around test point of trace of button center
+- Cut traces to rest of button PCB
