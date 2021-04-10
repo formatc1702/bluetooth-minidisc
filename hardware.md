@@ -34,7 +34,7 @@
 
 - Bluetooth version...
   5.0? 4.1?
-- Supposedly works with Apple AirPots --> to be tested
+- Supposedly works with Apple AirPods --> to be tested
 
 ## Scosche FlyTunes
 

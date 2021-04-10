@@ -19,13 +19,16 @@
 
 - Button seems to be pulled up to BAT+ (TBC), via 10k resistor `R6`, into GPIO on third pin of short side of blue moudle, counting from the corner where Audio In L/R is.
 
-- Does not auto-turn on upon applying power to battery terminals -> good or bad? -> optional RC circuit to virtually hold button for x sec. on startup
+- LEDs go from BAT+ via 1k resistors to pins 5 and 6 on the long side of blue module near the 8 test pads
+
+- Does not auto-turn on upon applying power to battery terminals -> good or bad? -> optional RC circuit to virtually hold button for 3 < x < 5 sec. on startup -> comparator circuit
 
 - Max current draw (as displayed by benchtop power supply)
    - 20 ~ 30 mA @ 3.3V connected and transmitting
    -  > 1 mA when searching
 
 - USB C connector desoldered with hot air gun @350 °C
+- Push button and LEDs need to be desoldered for flush mounting using 1x Kapton tape + 2x double-sided adhesive tape
 
 # The third one
 

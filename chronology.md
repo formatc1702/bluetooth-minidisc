@@ -41,11 +41,13 @@
 
 ### Bluetooth
 
-
+- Noise coupled back from BT module via power rail into audio
+  - 2x 470u electrolytic cap on 3.3V BT supply line helps (a bit)
 
 ### MiniDisc audio
 
 - short circuit between audio ground and VG ground? -> nope, all good
+
 
 ### Button
 
@@ -61,3 +63,13 @@
 
 - Remove protective foil around test point of trace of button center
 - Cut traces to rest of button PCB
+
+## Ideas for 0.2
+
+- Bluetooth auto-connect using LM393 comparator + RC circuit
+- Bluetooth LEDs visible through translucent rear casing
+- Reduce Bluetooth noise
+- Use Pololu Step-Up converter U1V11F3 instead of S7V8A
+- Tap a different power rail?
+  - New step-up converter can work with voltages as low as 0.5 V
+  - Maybe using a rail further away from the audio / DAC gives lower noise
