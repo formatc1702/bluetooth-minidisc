@@ -38,6 +38,7 @@
   - It works! Stable under load
   - Not sure why tapping anode of `C314` does not work
   - Not sure why tapping `AP908` (should be equivalent to `IC302` `VCC` before `L303` and `R303`) does not work
+  - `AP951` / `AP952` / `AP726`?
 
 ### Bluetooth
 
@@ -73,3 +74,12 @@
 - Tap a different power rail?
   - New step-up converter can work with voltages as low as 0.5 V
   - Maybe using a rail further away from the audio / DAC gives lower noise
+- Audio isolating transformer?
+  - ED8 Audio 600: 600 1: 1 Nickel Steel Transformer
+    https://www.ebay.de/itm/384030252991
+    AC impedance ratio: 600:600
+    DC impedance DCR: 110:130
+    Inductance: 1.2H
+
+## isolated dc dc
+- murata nxe1  
