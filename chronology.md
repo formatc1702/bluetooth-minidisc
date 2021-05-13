@@ -83,3 +83,10 @@
 
 ## isolated dc dc
 - murata nxe1  
+
+## Version 0.2
+
+- 2x ED8 SMD Audio 600:600 1:1 Nickel Steel Transformer for ground loop isolation
+- U1V11F3 Step-Up directly from battery
+  - /SHDN signal from RVCC (power from remote control) on AP302
+- Colored 0.04 mm² LiYv wires for different signals
