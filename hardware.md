@@ -74,6 +74,11 @@ AT+CONADD=0x0c3b50a0e8aa // Apple AirPods Pro
     Bluetooth Stereo Audio Transmitter Module
     http://ecksteinimg.de/Datasheet/CP12009/BTA-TX-A%20CSR57E6.pdf
 
+## iLuv AirFree
+
+- https://www.iluv.com/products/airfree
+- AirPods compatible (claimed by manufacturer)
+
 # Voltage regulators
 
 - Started with Pololu S7V8F3 3.3V Step-up/down converter -> Vin min = 2.7V,
