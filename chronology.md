@@ -90,3 +90,15 @@
 - U1V11F3 Step-Up directly from battery
   - /SHDN signal from RVCC (power from remote control) on AP302
 - Colored 0.04 mm² LiYv wires for different signals
+
+## Ideas for v0.3
+
+- Bluetooth auto-on
+  - Op-Amp circuit?
+  - Microcontroller?
+- Remove/Disable write protect detector switch
+  - Since recording hardware is removed anyway, prevent the software from attempting any recording/TOC editing
+- Bulk capacitor on BT power lines for stability
+- Reinsert torsion spring for clamshell mechanism
+- Plug leftover hole for Line In
+- Increase audio volume?
