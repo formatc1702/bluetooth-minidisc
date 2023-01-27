@@ -13,6 +13,8 @@ General information on Minidisc players, formats, and everything related:
   - [Page for MZ-R500](https://www.minidisc.org/part_Sony_MZ-R500.html)
 - [MiniDisc Wiki](https://www.minidisc.wiki/)
   - [Page for MZ-R500](https://www.minidisc.wiki/equipment/sony/portable/mz-r500)
+- [Web MiniDisc Pro](https://web.minidisc.wiki/)
+  - bring your old NetMD Minidisc player back to life. Upload music to MiniDisc from the Browser.
 
 Both sites host excellent official User and *Service* Manuals for many of the listed devices. Among other things, the Service Manuals include:
 - AWESOME Schematics
