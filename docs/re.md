@@ -19,7 +19,7 @@ Reverse engineering |
 ![](img/re/kcx_bt.png)
 
 - There doesn't seem to be a more official name for this module
-- It is widely available on [AliExpress link](https://www.aliexpress.com/item/33058710334.html), [TaoBao link](https://item.taobao.com/item.htm?spm=a21wu.12321156-tw.0.0.7e76d1c7xEOcFZ&id=570274835710), [Amazon (DE)](https://www.amazon.de/Sendermodul-Bluetooth-Transceiver-Lautsprecher-KCX_BT_EMITTER/dp/B07YKYPJ22/) and others.
+- It is widely available on [AliExpress](https://www.aliexpress.com/item/33058710334.html), [TaoBao](https://item.taobao.com/item.htm?spm=a21wu.12321156-tw.0.0.7e76d1c7xEOcFZ&id=570274835710), [Amazon (DE)](https://www.amazon.de/Sendermodul-Bluetooth-Transceiver-Lautsprecher-KCX_BT_EMITTER/dp/B07YKYPJ22/) and others.
 - There is a [GitHub repo](https://github.com/Mark-MDO47/BluetoothAudioTransmitter_KCX_BT_EMITTER) with utilities for this chip
 - There is an [Electro-Tech-Online forum thread](https://www.electro-tech-online.com/threads/kcx_bt_emitter-low-cost-bluetooth-bt-audio-module.158156/)
 
