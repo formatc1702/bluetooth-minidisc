@@ -135,7 +135,7 @@ Potential access points:
 - S801 (Hold switch)
 - TP910
 
-##### VG
+##### "VG"
 
 - Listed as 7.3V in schematic diagram.
 - Measured as 6.6V @ AP914 against hold switch GND
@@ -176,16 +176,15 @@ Potential acces points:
 
 ### Pairing button
 
-- `End Search` is most promising because it is unnecessary. Auto End Search can be configured in settings menu.
+- `End Search` is most promising because it is unnecessary for normal operation of MD player. Auto End Search can be configured in settings menu.
 - `REC` could be another good candidate if recording functionality is not deemed relevant.
-- Buttons = resistor ladders?
-- Measure `PAUSE`, `SET KEY 1`, `SET KEY 2` aka. `D1`, `D2`, `D3`
 - Use RC circuit to force longer button push for pairing?
 - Somehow respect state of `Hold` slider?
 - Photograph button PCB against white screen -> good contrast of traces
   - Single layer board
   - Lots of `000` 0 Ohm resistors as bridges
   - Multiplexed? Resistor ladder? No idea
+  - Measure `PAUSE`, `SET KEY 1`, `SET KEY 2` aka. `D1`, `D2`, `D3`
 - Trace nets from `End Search` button down to FFC
   - Pin 2: `DGND`
   - Pin 6: `SET KEY 1`
