@@ -9,7 +9,7 @@ Home |
 
 ![](img/btmd_400.jpeg)
 
-A Sony Minidisc player from 2001, with built in Bluetooth connectivity for wireless earphones and speakers, with intact outside appearance.
+Bringing a Minidisc player from 2001 into 2021 by adding Bluetooth connectivity, without compromising looks and convenience.
 
 - Follow the different iterations of the modding process:
   - [**v0.1**](v0.1.md) - the original idea and basic proof of concept
