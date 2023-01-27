@@ -43,3 +43,9 @@
 
 - https://aluratek.com/airstream-universal-bluetooth-audio-transmitter
 - Found here: https://www.reddit.com/r/minidisc/comments/je8dyx/simply_awesome_listening_to_my_mds_wirelessly_in/
+
+# 1Mii ML400
+
+- BT 5.0
+- claimed AirPods compatible
+- nice small form factor, no battery, only USB-C power
