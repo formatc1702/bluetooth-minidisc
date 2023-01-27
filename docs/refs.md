@@ -34,3 +34,5 @@ Both sites host excellent official User and *Service* Manuals for many of the li
 - Do not hook up stuff directly to each other. Use a breadboard inbetween for more flexibility, i.e. the ability to mix and match signals and measure inbetween
 - Make tracing of vias easier by printing the board views from both sides at the same scale (as big as possible, e.g. A4), cut them out, and glue them together back to back. Hold against the light to see both layers at once.
 - Take time to prepare properly to avoid errors/frustration later on
+
+![](img/btmd_400.jpeg)

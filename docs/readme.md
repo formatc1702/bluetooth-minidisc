@@ -7,7 +7,7 @@ Home |
 
 # 💽 Bluetooth Minidisc
 
-![](img/btmd_400.jpeg)
+![](img/btmd2_1280.jpeg)
 
 Bringing a Minidisc player from 2001 into 2021 by adding Bluetooth connectivity, without compromising looks and convenience.
 
@@ -15,6 +15,7 @@ Bringing a Minidisc player from 2001 into 2021 by adding Bluetooth connectivity,
   - [**v0.1**](v0.1.md) - the original idea and basic proof of concept
   - [**v0.2**](v0.2.md) - a significantly improved system
   - [**v0.3**](v0.3.md) - a little upgrade for an even better experience
+- See v0.2 in action on [**YouTube**](https://www.youtube.com/@btmdberlin6980/videos). Better and newer videos coming soon.
 - Read some scattered notes about the [**reverse engineering process**](re.md), figuring out how to make this work.
 - Check some useful [**references**](refs.md).
 
