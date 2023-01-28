@@ -7,7 +7,7 @@ Home |
 
 # 💽 Bluetooth Minidisc
 
-![](img/btmd2_1280.jpeg)
+![Bluetooth Mindisc header image](img/btmd2_1280.jpeg)
 
 Bringing a Minidisc player from 2001 into 2021 by adding Bluetooth connectivity, without compromising looks and convenience.
 
@@ -21,4 +21,4 @@ Bringing a Minidisc player from 2001 into 2021 by adding Bluetooth connectivity,
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M3I2NCA)
 
-![](img/blinktop_256.gif) ![](img/blinkbottom_256.gif) ![](img/blinktopcon_256.gif)
+![BTMD in pairing mode, rapidly blinking](img/blinktop_256.gif) ![BTMD in pairing mode, rapidly blinking, bottom view](img/blinkbottom_256.gif) ![BTMD connected, slowly blinking](img/blinktopcon_256.gif)
