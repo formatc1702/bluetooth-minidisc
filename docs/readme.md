@@ -21,4 +21,4 @@ Bringing a Minidisc player from 2001 into 2021 by adding Bluetooth connectivity,
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M3I2NCA)
 
-![](img/blinktop_256.gif) ![](img/blinkbottom_256.gif)
+![](img/blinktop_256.gif) ![](img/blinkbottom_256.gif) ![](img/blinktopcon_256.gif)
